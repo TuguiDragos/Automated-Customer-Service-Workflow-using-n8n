@@ -1,5 +1,14 @@
 # 🤖 Automated Customer Service Workflow using n8n
 
+![n8n](https://img.shields.io/badge/built%20with-n8n-blue?style=flat-square&logo=n8n)
+![OpenAI](https://img.shields.io/badge/AI-OpenAI-green?style=flat-square&logo=openai)
+![status](https://img.shields.io/badge/status-live-brightgreen?style=flat-square)
+![website](https://img.shields.io/badge/visit-site-blue?style=flat-square&logo=google-chrome)
+
+📍 Built by [Tugui Dragoș](https://tuguidragos.com)  
+🔗 Portfolio: [tuguidragos.com](https://tuguidragos.com)
+
+
 This project is a real-time, automated customer support system built with **n8n**, **OpenAI**, **Gmail**, and **Google Sheets**.  
 It reads incoming customer emails, understands them using AI, categorizes and logs the messages, and sends back personalized responses — all without human input.
 
