@@ -76,6 +76,12 @@ Here's the full automation behind the scenes — all built visually in n8n.
 
 ![n8n Workflow - Automated Customer Service](https://github.com/user-attachments/assets/2e442274-fc57-4a03-9f78-96efe1ccff3e)
 
+---
+
+## 🎥 Watch Full Demo
+
+➡️ [Click to watch the full video on Vimeo](https://vimeo.com/1070420977)
+
 
 ---
 
