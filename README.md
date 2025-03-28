@@ -56,7 +56,8 @@ Each customer receives a personalized response, written by OpenAI and sent throu
 A full history of conversations is stored with category and tone — ideal for analytics or reporting.
 
 
-<img width="1107" alt="Customer Interaction Log - Google Sheets" src="https://github.com/user-attachments/assets/8b3a17dc-f539-4646-9412-724e24b0cf73" />
+<img width="1107" alt="Customer Interaction Log - Google Sheets" src="https://github.com/user-attachments/assets/404ff5de-0ab3-4639-b9a5-3de33f778db7" />
+
 
 
 ---
