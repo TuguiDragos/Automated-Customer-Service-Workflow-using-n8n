@@ -78,7 +78,14 @@ This system is perfect for:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💼 About the Author
 
-Built with love, logic, and a bit of AI  
-by [Tugui Dragoș](https://tuguidragos.com) 💼
+Built with logic, coffee and a bit of AI 😎
+
+Crafted by [Tugui Dragoș](https://tuguidragos.com)  
+
+
+Follow me on:
+- [LinkedIn](https://www.linkedin.com/in/tuguidragos)
+- [GitHub](https://github.com/tuguidragos)
+- [Twitter/X](https://x.com/tuguidragos)
